@@ -19,7 +19,6 @@ The analysis provided actionable insights that guided the selection of potential
 ### Key Learnings
 - Leveraging statistical modeling to inform strategic decisions in sports management.
 - The importance of thorough data cleaning and EDA for accurate analysis.
-- Using visualizations to make complex data accessible and actionable.
 
 ### How to Use
 Visit the [GitHub Repository](https://github.com/rush3010/MoneyBall-R-Strategic-Player-Replacement-Analysis) for complete code, data preparation steps, and analysis scripts.
@@ -27,7 +26,6 @@ Visit the [GitHub Repository](https://github.com/rush3010/MoneyBall-R-Strategic-
 ### Future Enhancements
 - Expanding the analysis to include more advanced predictive models.
 - Incorporating additional variables like player injury history for a more holistic evaluation.
-- Developing an interactive dashboard for real-time data analysis and decision support.
 
 ### Contact
 For questions, collaboration, or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/rushabh-nalawade-bb7966192) or [GitHub](https://github.com/rush3010).
